@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\.Projetos\ExercicoTryCatch\.metadata\.plugins\org.eclipse.jdt.core
+4241417608.index
+95775653.index
